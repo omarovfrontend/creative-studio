@@ -2,4 +2,4 @@
 
 Верстка макета creative-studio
 
-Demo - https://omarov-frontend.github.io/creative-studio/
+Demo - https://omarovfrontend.github.io/creative-studio/
